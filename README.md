@@ -9,16 +9,16 @@ A Zero Trust study guide and one-page quick references for anyone leading or lea
 | | |
 |---|---|
 | [Web page](index.html) | The study guide, the three Quick References and the grouped Sources list on one phone-first page, in light and dark themes, with a track switcher at the top. |
-| [Study guide (PDF)](20260930_ZT_Study_Guide_v2.1.pdf) | The printable guide, core and all three tracks: US Letter, 25 pages, with page numbers. |
-| [Quick Reference: DoW (PDF)](20260930_ZT_Quick_Reference_DoW_v2.1.pdf) | The DoW job aid on one US Letter page. |
-| [Quick Reference: Federal civilian (PDF)](20260930_ZT_Quick_Reference_Federal_Civilian_v2.1.pdf) | The federal civilian job aid on one US Letter page. |
-| [Quick Reference: Private sector (PDF)](20260930_ZT_Quick_Reference_Private_Sector_v2.1.pdf) | The private-sector job aid on one US Letter page. |
-| [Verification record](VERIFICATION.md) | What was checked, against which primary source and page, and what was corrected, for v1.0 and v2.0. |
+| [Study guide (PDF)](20260930_ZT_Study_Guide_v2.2.pdf) | The printable guide, core and all three tracks: US Letter, 27 pages, with page numbers. |
+| [Quick Reference: DoW (PDF)](20260930_ZT_Quick_Reference_DoW_v2.2.pdf) | The DoW job aid on one US Letter page. |
+| [Quick Reference: Federal civilian (PDF)](20260930_ZT_Quick_Reference_Federal_Civilian_v2.2.pdf) | The federal civilian job aid on one US Letter page. |
+| [Quick Reference: Private sector (PDF)](20260930_ZT_Quick_Reference_Private_Sector_v2.2.pdf) | The private-sector job aid on one US Letter page. |
+| [Verification record](VERIFICATION.md) | What was checked, against which primary source and page, and what was corrected, for v1.0, v2.0 and v2.2. |
 | [License](LICENSE) | The all-rights-reserved notice. |
 
 ## Go deeper
 
-[Zero Trust in the Age of AI](https://notebooklm.link.google/jaUFZqYbnxIe) is a companion NotebookLM notebook I built on this guide's sources plus the 2025 to 2026 guidance on AI agents. Anyone with the link and a Google account can read it, ask it questions, and play its audio overview, mind map, flashcards, quiz and study guide; start with its "START HERE" note.
+[Zero Trust in the Age of AI](https://notebooklm.link.google/jaUFZqYbnxIe) is a companion NotebookLM notebook I built on this guide's sources, the 2025 to 2026 guidance on AI agents and recorded talks, including transcripts of five government talks from the 2026 DoW Zero Trust Virtual Learning Exchange. Anyone with the link and a Google account can read it, ask it questions, and play its audio overview, mind map, flashcards and quiz; start with its "START HERE" note.
 
 ## How it was built
 

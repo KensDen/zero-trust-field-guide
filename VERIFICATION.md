@@ -191,6 +191,50 @@ The re-check also confirmed these, among others:
 - **Private sector.** NIST CSF 2.0 (CSWP 29, 26 February 2024; for any organization "regardless of its size, sector, or maturity", p. 2 [i]; six Functions, p. 8 [3]; Protect includes Identity Management, Authentication, and Access Control, PR.AA); NIST SP 1800-35 (final 10 June 2025; 19 example implementations with 24 collaborators, p. 3 [iii]); the seven tenets of SP 800-207 (pp. 15 to 16 [6 to 7]); the CMMC program rule (32 CFR Part 170, Federal Register 15 October 2024, issued by the Office of the DoD CIO).
 - **DoW, as of 29 September 2026.** No v1.0 correction regressed. The counts were recounted and hold: 152 activities, 91 Target and 61 Advanced; 13, 14, 12, 17, 10, 13 and 12 Target by pillar; 42 of 45 capabilities with a Target activity; ZIG Discovery 14, Phase One 36 and Phase Two 41, exactly the 91 Target IDs. NSA has not published ZIG Phase Three or Four; its 28 May 2026 release launching a ZIG webpage says the page "will be updated with future Phases". The DoW CIO Library still lists the 18 March 2025 Capabilities and Activities list as the current one (the same file as in v1.0), and still lists no Overlays. EO 14347 Sec. 2(b): the Department "may be referred to as the Department of War" (90 FR 43893).
 
+## v2.2 additions
+
+Public edition v2.2, 30 September 2026.
+
+v2.2 adds "Talks to watch" to Part 7 of the guide: twelve recorded talks, one for the core, three for each track and two on AI agents. It also adds a Talks group to the Sources list below. The author chose the talks and wrote their descriptions. On 30 September 2026 Claude Code checked each talk before it went in:
+
+- The link loads publicly and the talk plays with no sign-in.
+  - WarU Media: Kaltura's public API (partner 2203981) showed each recording ready to play with no access restriction, and a headless browser with no saved sign-in played each one from its page.
+  - YouTube: each watch page reported the video public, listed and playable, and a headless browser played each one.
+- The title, speaker, venue and date match the talk's own page. For the 4th Annual DoW Zero Trust Virtual Learning Exchange (7 to 9 April 2026), they match the Exchange's agenda and the recording's own name on WarU Media instead; the speakers page confirms roles where it lists the speaker.
+- Each length is the talk's own running time, rounded to the nearest whole minute.
+- Each WarU Media link is the one the Exchange's video library page gives for that talk.
+
+Every talk passed these checks. Where the guide's wording of a title did not match its source, the wording was corrected (below). After the first check the author revised four descriptions: one venue name, the CSA webcast's date (October 2023), and the ATARC and Resnick descriptions. Each revised claim holds against the sources recorded below.
+
+### Talks (checked 30 Sep 2026)
+
+| Talk | Link | Checked | What was matched |
+|---|---|---|---|
+| John Kindervag: "Containment, ZT and the Security Graph: The Path to Anti-Fragility" | <https://media.waru.edu/playlist/dedicated/62925431/1_78sgkifi/1_u4dhitnh> | 30 Sep 2026 | Public, plays with no sign-in (Kaltura entry 1_u4dhitnh). Title, speaker and date from the agenda: Day 2, 8 Apr 2026, "Containment, ZT and the Security Graph: The Path to Anti-Fragility" (a dash on the agenda), John Kindervag, Chief Evangelist, Illumio; the speakers page credits him with creating the Zero Trust Model at Forrester Research. Link from the Exchange's videos page. 3092 s. |
+| Dr. Shelly Kelly, NSA: "Zero Trust Implementation Guidelines (ZIGs)" | <https://media.waru.edu/playlist/dedicated/62925431/1_78sgkifi/1_bzak7d09> | 30 Sep 2026 | Public, plays with no sign-in (Kaltura entry 1_bzak7d09). Agenda: Day 2, 8 Apr 2026, "Zero Trust Implementation Guidelines (ZIGS)", Dr. Shelly Kelly, Chief Operations Officer for Critical Government Systems, National Security Agency; the guide writes "(ZIGs)", as it does elsewhere. Same link on the videos page. 1357 s. |
+| Randy Resnick, DoW Zero Trust Portfolio Management Office: centralized Zero Trust planning | <https://www.youtube.com/watch?v=T4G4FHaS_6U> | 30 Sep 2026 | Public, plays with no sign-in. Its page: DefenseScoop channel, published 12 Dec 2025; the description names Resnick as Senior Advisor for the Zero Trust Portfolio Management Office at the Department of War and describes the office coordinating zero trust across 40 components with quarterly implementation plans. Recorded at DefenseTalks 2025 on 9 Dec 2025 (the DefenseTalks agenda; DefenseScoop, 9 Dec 2025). 316 s. |
+| David Voelker, Department of the Navy: "Zero Trust for Operational Technology" | <https://media.waru.edu/playlist/dedicated/62925431/1_78sgkifi/1_sr95lihm> | 30 Sep 2026 | Public, plays with no sign-in (Kaltura entry 1_sr95lihm). Agenda: Day 2, 8 Apr 2026, "Zero Trust for Operational Technology", David Voelker, NAVWAR SYSCOM Standardization Officer, U.S. Department of the Navy. Same link on the videos page. 1459 s. |
+| CISA and DoD architects: "Understanding the CISA Maturity Model and DoD's Zero Trust Strategy" | <https://www.youtube.com/watch?v=wpAjYp0yiSs> | 30 Sep 2026 | Public, plays with no sign-in. Its page: same title, Cloud Security Alliance channel, uploaded 13 Mar 2026; "a panel of CISA and DoD experts". First shown on CSA's BrightTALK channel on 13 Oct 2023 (63 min), presented by Sean Connelly and John Simms (CISA), Randy Resnick (DoD) and Jerry Chapman (CSA Zero Trust co-chair). 3837 s. |
+| Sean Connelly: "Zero Trust as Global Policy: How Governments Are Adopting Zero Trust" | <https://media.waru.edu/playlist/dedicated/62925431/1_og8bhh9i/1_l01174ak> | 30 Sep 2026 | Public, plays with no sign-in (Kaltura entry 1_l01174ak). Agenda: Day 3 (International ZT schedule), 9 Apr 2026, "Zero Trust as Global Policy: How Governments Are Adopting Zero Trust" (a dash on the agenda), Sean Connelly, Executive Director, Global Zero Trust Strategy and Policy, Zscaler. Link from the videos page. 1222 s. |
+| ATARC panel: "Mastering Zero Trust: Leveraging Network Visibility in Zero Trust Frameworks" | <https://www.youtube.com/watch?v=yoSKqpQhio8> | 30 Sep 2026 | Public, plays with no sign-in. Its page: ATARC Channel, published 5 Dec 2024; the description dates the webinar 5 Dec 2024. ATARC's event page (Internet Archive copy, 13 Oct 2025) gives the same title and date and lists seven speakers: five from federal agencies (Coast Guard, GSA, State, CFPB, Navy) and two from industry. 3617 s. |
+| Andy Ellis: "Leading to Zero Trust: Principles for a Smooth Journey" | <https://media.waru.edu/playlist/dedicated/62925431/1_khqyas09/1_ywwwu11x> | 30 Sep 2026 | Public, plays with no sign-in (Kaltura entry 1_ywwwu11x). Agenda: Day 1, 7 Apr 2026, "Leading to Zero Trust: Principles for a Smooth Journey", Andy Ellis, Legendary CISO, Duha. Link from the videos page. 1404 s. |
+| Jennifer Minella: "The Zero Trust Maturity Myth" | <https://media.waru.edu/playlist/dedicated/62925431/1_og8bhh9i/1_tacy9nke> | 30 Sep 2026 | Public, plays with no sign-in (Kaltura entry 1_tacy9nke; a different recording from Connelly's, which runs within a second of it). Agenda: Day 3, 9 Apr 2026, "The Zero Trust Maturity Myth", Jennifer Minella, Advisory CISO, Carolina Advanced Digital, Inc. Link from the videos page. 1222 s. |
+| Rich Mogull: "When AI Breaks Security: Why Zero Trust Is No Longer Optional" | <https://media.waru.edu/playlist/dedicated/62925431/1_og8bhh9i/1_8ebjco3g> | 30 Sep 2026 | Public, plays with no sign-in (Kaltura entry 1_8ebjco3g). The recording's own name and the agenda (Day 3, 9 Apr 2026) both read "When AI Breaks Security: Why Zero Trust Is No Longer Optional", Rich Mogull, Chief Analyst, Cloud Security Alliance; the videos page shortens it to "Why ZT is No Longer Optional". Link from the videos page. 1977 s. |
+| Niki Aimable Niyikiza: "Capability-Based Authorization for AI Agents: Warrants That Survive Prompt Injection" | <https://youtu.be/bw928cFShK4> | 30 Sep 2026 | Public, plays with no sign-in. Its page: unprompted channel, published 25 Mar 2026; the description gives the full title and the speaker. The conference's Day 2 agenda (unpromptedcon.org) lists the talk on 4 Mar 2026; the conference ran 3 and 4 Mar 2026 in San Francisco. 1722 s. |
+| Matt Maisel: "Hooking Coding Agents with the Cedar Policy Language" | <https://youtu.be/m6pzrqFJ6hE> | 30 Sep 2026 | Public, plays with no sign-in. Its page: same title, unprompted channel, published 25 Mar 2026. The conference's Day 1 agenda lists the talk on 3 Mar 2026. 1034 s. |
+
+### Corrections before publishing
+
+| Where | Was | Now | Source |
+|---|---|---|---|
+| Talks to watch, John Kindervag: title | Containment, ZT and the Security Graph | Containment, ZT and the Security Graph: The Path to Anti-Fragility | Exchange agenda, video library and the recording's own name, which separate the two parts with a dash |
+| Talks to watch, Rich Mogull: title | Why ZT is No Longer Optional | Why Zero Trust Is No Longer Optional | Exchange agenda and the recording's own name; the video library shortens it |
+
+Not checked:
+
+- what each talk says beyond its title and its own page's description, since no transcript was read;
+- the companion notebook's contents, which need a Google sign-in.
+
 ## Sources
 
 ### Core
@@ -253,3 +297,20 @@ The re-check also confirmed these, among others:
 | Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations, NIST SP 800-171 Rev. 3 | NIST, May 2024 | <https://csrc.nist.gov/pubs/sp/800/171/r3/final> |
 | Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations, NIST SP 800-171 Rev. 2. The CMMC program's Level 2 requirements are identical to Rev. 2 (32 CFR 170.14(c)(3)); NIST withdrew Rev. 2 when it published Rev. 3. Checked 29 September 2026. | NIST, Feb 2020, updated Jan 2021 | <https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final> |
 | Cybersecurity Maturity Model Certification (CMMC) Program, 32 CFR Part 170 | DoD CIO, Oct 2024 | <https://www.govinfo.gov/content/pkg/FR-2024-10-15/pdf/2024-22905.pdf> |
+
+### Talks
+
+| Source | Publisher, date | Link |
+|---|---|---|
+| John Kindervag: "Containment, ZT and the Security Graph: The Path to Anti-Fragility" | DoW Zero Trust Virtual Learning Exchange, Apr 2026 | <https://media.waru.edu/playlist/dedicated/62925431/1_78sgkifi/1_u4dhitnh> |
+| Dr. Shelly Kelly, NSA: "Zero Trust Implementation Guidelines (ZIGs)" | DoW Zero Trust Virtual Learning Exchange, Apr 2026 | <https://media.waru.edu/playlist/dedicated/62925431/1_78sgkifi/1_bzak7d09> |
+| Randy Resnick, DoW Zero Trust Portfolio Management Office: "DOW's Randy Resnick on how centralized zero-trust planning prevents chaos" | DefenseScoop, Dec 2025 | <https://www.youtube.com/watch?v=T4G4FHaS_6U> |
+| David Voelker, Department of the Navy: "Zero Trust for Operational Technology" | DoW Zero Trust Virtual Learning Exchange, Apr 2026 | <https://media.waru.edu/playlist/dedicated/62925431/1_78sgkifi/1_sr95lihm> |
+| CISA and DoD panel: "Understanding the CISA Maturity Model and DoD's Zero Trust Strategy" | Cloud Security Alliance, Oct 2023 (on YouTube Mar 2026) | <https://www.youtube.com/watch?v=wpAjYp0yiSs> |
+| Sean Connelly: "Zero Trust as Global Policy: How Governments Are Adopting Zero Trust" | DoW Zero Trust Virtual Learning Exchange, Apr 2026 | <https://media.waru.edu/playlist/dedicated/62925431/1_og8bhh9i/1_l01174ak> |
+| ATARC webinar: "Mastering Zero Trust: Leveraging Network Visibility in Zero Trust Frameworks" | ATARC, Dec 2024 | <https://www.youtube.com/watch?v=yoSKqpQhio8> |
+| Andy Ellis: "Leading to Zero Trust: Principles for a Smooth Journey" | DoW Zero Trust Virtual Learning Exchange, Apr 2026 | <https://media.waru.edu/playlist/dedicated/62925431/1_khqyas09/1_ywwwu11x> |
+| Jennifer Minella: "The Zero Trust Maturity Myth" | DoW Zero Trust Virtual Learning Exchange, Apr 2026 | <https://media.waru.edu/playlist/dedicated/62925431/1_og8bhh9i/1_tacy9nke> |
+| Rich Mogull: "When AI Breaks Security: Why Zero Trust Is No Longer Optional" | DoW Zero Trust Virtual Learning Exchange, Apr 2026 | <https://media.waru.edu/playlist/dedicated/62925431/1_og8bhh9i/1_8ebjco3g> |
+| Niki Aimable Niyikiza: "Capability-Based Authorization for AI Agents: Warrants That Survive Prompt Injection" | [un]prompted 2026, Mar 2026 | <https://youtu.be/bw928cFShK4> |
+| Matt Maisel: "Hooking Coding Agents with the Cedar Policy Language" | [un]prompted 2026, Mar 2026 | <https://youtu.be/m6pzrqFJ6hE> |
