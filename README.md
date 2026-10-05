@@ -1,3 +1,5 @@
+<img src="icon-512.png" width="72" height="72" alt="Zero Trust Field Guide: a zero with a compass needle">
+
 # Zero Trust Field Guide
 
 A Zero Trust study guide and one-page quick references for anyone leading or learning Zero Trust: a shared core, then DoW, federal civilian and private-sector tracks.
