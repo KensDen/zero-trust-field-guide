@@ -1,6 +1,6 @@
-<img src="icon-512.png" width="72" height="72" alt="Zero Trust Field Guide: a zero with a compass needle">
+<img src="icon-512.png" width="72" height="72" alt="Zero Trust Accelerator: a zero with a compass needle">
 
-# Zero Trust Field Guide
+# Zero Trust Accelerator: Field Guide
 
 A Zero Trust study guide and one-page quick references for anyone leading or learning Zero Trust: a shared core, then DoW, federal civilian and private-sector tracks.
 
@@ -11,10 +11,10 @@ A Zero Trust study guide and one-page quick references for anyone leading or lea
 | | |
 |---|---|
 | [Web page](index.html) | The study guide, the three Quick References and the grouped Sources list on one phone-first page, in light and dark themes, with a track switcher at the top. |
-| [Study guide (PDF)](20261005_ZT_Study_Guide_v2.3.pdf) | The printable guide, core and all three tracks: US Letter, 27 pages, with page numbers. |
-| [Quick Reference: DoW (PDF)](20261005_ZT_Quick_Reference_DoW_v2.3.pdf) | The DoW job aid on one US Letter page. |
-| [Quick Reference: Federal civilian (PDF)](20261005_ZT_Quick_Reference_Federal_Civilian_v2.3.pdf) | The federal civilian job aid on one US Letter page. |
-| [Quick Reference: Private sector (PDF)](20261005_ZT_Quick_Reference_Private_Sector_v2.3.pdf) | The private-sector job aid on one US Letter page. |
+| [Study guide (PDF)](20261005_ZT_Study_Guide_v2.4.pdf) | The printable guide, core and all three tracks: US Letter, 27 pages, with page numbers. |
+| [Quick Reference: DoW (PDF)](20261005_ZT_Quick_Reference_DoW_v2.4.pdf) | The DoW job aid on one US Letter page. |
+| [Quick Reference: Federal civilian (PDF)](20261005_ZT_Quick_Reference_Federal_Civilian_v2.4.pdf) | The federal civilian job aid on one US Letter page. |
+| [Quick Reference: Private sector (PDF)](20261005_ZT_Quick_Reference_Private_Sector_v2.4.pdf) | The private-sector job aid on one US Letter page. |
 | [Verification record](VERIFICATION.md) | What was checked, against which primary source and page, and what was corrected, for v1.0, v2.0 and v2.2. |
 | [License](LICENSE) | The all-rights-reserved notice. |
 
@@ -30,7 +30,7 @@ I reviewed every change, and I own the result, mistakes included.
 
 ## License
 
-The Zero Trust Field Guide is copyright 2026 Ken Connell, all rights reserved ([LICENSE](LICENSE)). The repository is published so the work can be read and used for personal study. No license is granted to copy, modify, distribute or otherwise use its text or files, in whole or in part, except as the law allows without a license or with Ken Connell's prior written permission. To ask about reuse, open an issue at https://github.com/KensDen/zero-trust-field-guide/issues.
+The Zero Trust Accelerator: Field Guide is copyright 2026 Ken Connell, all rights reserved ([LICENSE](LICENSE)). The repository is published so the work can be read and used for personal study. No license is granted to copy, modify, distribute or otherwise use its text or files, in whole or in part, except as the law allows without a license or with Ken Connell's prior written permission. To ask about reuse, open an issue at https://github.com/KensDen/zero-trust-field-guide/issues.
 
 GitHub's Terms of Service (section D.5) let other GitHub users view and fork a public repository on GitHub, as GitHub's features allow; that is not permission to use the work anywhere else.
 
